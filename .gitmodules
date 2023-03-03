@@ -1,0 +1,4 @@
+[submodule "iragoum.github.io"]
+	path = iragoum.github.io
+	url = git@github.com:iragoum/iragoum.github.io.git
+	branch = main
