@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mougari Abderrahim
+title: 面向未
 
 # Full name (for SEO)
-first_name: Abderrahim
-last_name: Mougari
+first_name: 面向未
+last_name: 面向未
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Student in PEOPLE'S FRIENDSHIP OF RUSSIA.
+role: Student in university of houari boumedienne
 
 # Organizations/Affiliations to show in About widget
 organizations:
