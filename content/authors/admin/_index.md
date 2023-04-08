@@ -18,7 +18,7 @@ role: Student in PEOPLE'S FRIENDSHIP OF RUSSIA.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: PEOPLE'S FRIENDSHIP OF RUSSIA.
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,14 +28,16 @@ bio: My research interests include artificial intelligence, mobile computing and
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Electronics
+  - business and investing  
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Mathematics and computer science
+      institution: PEOPLE'S FRIENDSHIP OF RUSSIA
+      Status : currently enrolled
+      Graduation year : June 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -74,5 +76,5 @@ email: '1032215692@pfur.ru'
 highlight_name: true
 ---
 
-Abderrahim Mougari is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abderrahim Mougari, an Algerian student, is currently pursuing his studies in Mathematics and Computer Science at the University of People's Friendship of Russia located in Moscow. Although he is currently in his first year, he has been actively engaged in various projects and training programs.
 {style="text-align: justify;"}

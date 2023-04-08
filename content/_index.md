@@ -16,16 +16,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: C++
+          description: 60%
+          icon: code
+          icon_pack: fas
+        - name: Graphic design
+          description: 70%
+          icon: images
           icon_pack: fas
         - name: Photography
-          description: 10%
+          description: 65%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -40,27 +40,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Designer
+          company: RadyMode
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Algeria
+          date_start: '2018-06-05'
+          date_end: '2018-09-18'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Graphic design
+              * Managing social platforms
+              
+        - title: Seller
+          company: NetBEB
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Algeria
+          date_start: '2019-02-26'
+          date_end: '2021-05-18'
+          description: |2-
+              Responsibilities include:
+
+              * Marketing
+              * Ads management
+              
     design:
       columns: '2'
   - block: accomplishments
@@ -76,30 +81,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: https://www.sololearn.com/
+          date_end: '2022-11-05'
+          date_start: '2021-10-25'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          organization: Sololearn
+          organization_url: https://www.sololearn.com/
+          title: Introduction to C++
+          
+        - certificate_url: https://www.rudn.ru/
+          date_end: '2021-11-05'
+          date_start: '2022-08-16'
+          description: I got the B1 level in Russian language.
+          organization: RUDN
+          organization_url: https://www.rudn.ru/
+          title: Preparatory course of Russian language.
+
     design:
       columns: '2'
   - block: collection
